@@ -38,6 +38,7 @@ AI-Security/
 ├── Prompt_Defence.pdf
 ├── Jailbreaker.pdf
 ├── Prompt_Injection.pdf
+├── LLMborghini.pdf
 └── More writeups coming soon...
 ```
 
@@ -81,6 +82,7 @@ Each PDF writeup includes:
 * ✅ Prompt Defence
 * ✅ Jailbreaker
 * ✅ Prompt Injection
+* ✅ LLMborghini
 * 🔄 More coming soon...
 
 ---
