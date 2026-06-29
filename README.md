@@ -35,9 +35,9 @@ Example:
 AI-Security/
 │
 ├── README.md
-├── Prompt-Defence.pdf
+├── Prompt_Defence.pdf
 ├── Jailbreaker.pdf
-├── Prompt-Injection.pdf
+├── Prompt_Injection.pdf
 └── More writeups coming soon...
 ```
 
