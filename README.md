@@ -39,6 +39,7 @@ AI-Security/
 ├── Jailbreaker.pdf
 ├── Prompt_Injection.pdf
 ├── LLMborghini.pdf
+├── white_rabbit.pdf
 └── More writeups coming soon...
 ```
 
@@ -83,6 +84,7 @@ Each PDF writeup includes:
 * ✅ Jailbreaker
 * ✅ Prompt Injection
 * ✅ LLMborghini
+* ✅ white rabbit
 * 🔄 More coming soon...
 
 ---
